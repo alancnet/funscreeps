@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunScreeps", "FunScreeps\FunScreeps.fsproj", "{204EC1E6-A547-46E8-B6AD-F1387BB62D84}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Screeps", "Screeps\Screeps.fsproj", "{17622D1B-4831-4157-AE82-693B4DFBD2CB}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Deployment", "Deployment\Deployment.fsproj", "{C0FE74F1-EAEA-4872-B8CC-F4D8AF9D5843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204EC1E6-A547-46E8-B6AD-F1387BB62D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204EC1E6-A547-46E8-B6AD-F1387BB62D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204EC1E6-A547-46E8-B6AD-F1387BB62D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204EC1E6-A547-46E8-B6AD-F1387BB62D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17622D1B-4831-4157-AE82-693B4DFBD2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17622D1B-4831-4157-AE82-693B4DFBD2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17622D1B-4831-4157-AE82-693B4DFBD2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17622D1B-4831-4157-AE82-693B4DFBD2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FE74F1-EAEA-4872-B8CC-F4D8AF9D5843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FE74F1-EAEA-4872-B8CC-F4D8AF9D5843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FE74F1-EAEA-4872-B8CC-F4D8AF9D5843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FE74F1-EAEA-4872-B8CC-F4D8AF9D5843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

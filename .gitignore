@@ -1,0 +1,7 @@
+Publish/node_modules/
+packages/
+FunScreeps/obj/
+FunScreeps/bin/
+Screeps/bin/
+Screeps/obj/
+Deployment/bin/
